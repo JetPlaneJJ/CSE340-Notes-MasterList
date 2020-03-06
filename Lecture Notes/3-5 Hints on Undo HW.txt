@@ -1,0 +1,15 @@
+Section on Canvas!
+
+Undo-go to prev action
+
+RrvDrawActivity: Contains ALL buttons
+
+Rvdrawingact: Implements a class that allows you to undo the redo, allows u to commit actions, calls
+
+AbstractDrActvity: No history, adding menus
+
+DrawingView: Keeps track of stroke views, has onTouchEvent with Pps state machine
+
+Possible to implement action: Emojis, dotted lines...
+
+THERE IS A WORKSHEET, SEE WEBSITE FOR PDF DOWNLOAD!!!

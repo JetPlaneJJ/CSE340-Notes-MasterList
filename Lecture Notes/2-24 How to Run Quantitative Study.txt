@@ -17,7 +17,7 @@ Topic: Running a Quantitative Study
 - Respect = informed consent
 	- must give users ability to CONSENT or opt-out any time, give results of experiments
 	- give users your intent + they fully understand
-- Jusitc = equitable, representative selection of participants
+- Justice = equitable, representative selection of participants
 	- bad = only using men for testing --> automobile parts, medicine, crash-test dummies
 
 3. Describe your participants/ Data Collection

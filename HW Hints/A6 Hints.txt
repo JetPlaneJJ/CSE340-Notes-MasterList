@@ -4,9 +4,9 @@ Undo Assignment general tips and corrections from Winter 2020 Spec
 	- DO NOT PASS COLORPICKER INSIDE TOGGLE MENU!!!
 	- there is already an AbstractColorPickerView in the given files
 	- color picker can be placed anywhere as long as the whole thing is inside the screen :)
-	- color picker should immediately CLOSE if user presses inside the wheel and releases anywhere
-	- all visible buttons should be grayed out/not usable immediately after clicking color_fab
-	- after clicking color_fab and your picker shows up, then user clicks totally outside wheel, it is ok to close the window or not close it
+	- color picker should CLOSE if user presses inside the wheel and releases anywhere
+	- all visible buttons should be grayed out/not usable immediately after clicking color_fab (leave color fab enabled)
+	- after clicking color_fab and your picker shows up, then user clicks totally outside wheel, it is ok to close the window or not close it, doesn't matter.
 2. on[Something]Selected methods:
 	- must call addCollapsableMenu(R.layout.whatever... this::on[Something]Selected) in order to be able to execute code inside the on[Something]Selected method
 		- do this even for the color_fab even tho it's no longer a "collapsable menu", most important part is "this::on[Something]Selected"

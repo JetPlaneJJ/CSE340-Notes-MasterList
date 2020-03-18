@@ -3,9 +3,9 @@ Common topic misassumptions of CSE 340 Students
 1. Developer Role differences:
 	- Component Dev = some1 who makes cool new small things like LineView which is reusable by other devs
 	- Library Extender = some1 who makes (usually) GROUPS of components and more complicated things than comp. dev. Makes new input types, layouts, styling.
-	- Architecture Extender = uses toolkit to create funky innovative new stuff like custom animations, machine learning
+	- Architecture Extender = uses toolkit to create funky innovative new stuff like custom animations
 
-2. Drawing dat circle...
+2. Drawing THAT circle...
 	- Quiz question that keeps annoying you: "Plz create new CircleView. Add the circle with center at (100,100) with a radius of 10. In onDraw(), you call canvas.drawCircle(...) what should you write for cx cy?"
 		- (cx,cy) = (10,10). Why? When you're inside the CircleView class, you only know everything w/in bounding box of the view, not the whole canvas. cx cy represents the center of the circle. If the top left of bounding box = (0,0) then you should put the circle at (10,10) so it doesn't get cut off :L
 	- Another similar questions but be careful of wording! "Consider a circle at 100,100 (relative to PARENT now), radius = 10. What are x,y,width,height for bounding box in parent coordinates?

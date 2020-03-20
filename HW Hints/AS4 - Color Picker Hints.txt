@@ -1,0 +1,19 @@
+AS4 - Color Picker Hints
+
+Application Model Management
+-  You should update the text field with current color as text: 
+	- update for starting color!!!!!!!! do not forget!!!!!
+	- correct string format (color hexcode)
+- Remember to update the color square thingy for starting color too
+
+App Resiliency
+- need to update background + text when restoring from bundle
+- restore colorpicker view state from bundle after restart
+	- remember to use setColor again when restoring the state
+
+Views
+- you MUST redraw everytime setColor is called
+
+
+
+

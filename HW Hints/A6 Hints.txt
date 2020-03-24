@@ -14,3 +14,7 @@ Undo Assignment general tips and corrections from Winter 2020 Spec
 3. Part 4 ideas: clearing whole screen, dashed/dotted lines when drawing, emoji drawn along path when drawing, fill entire canvas with color...etc
 	- Suggestion: use the existing undo and redo classes 
 
+4. Reflection:
+- be sure to group your data based on "like" issues, not based on who sent them to you.
+- include specific steps you would take to solve the issues you found with the default Undo app.
+- can suggest new heuristics for the "how well do the heuristics fit"?

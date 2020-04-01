@@ -1,0 +1,117 @@
+10:29:17	 From  SCOTT EDWARD WEAVER : is there a book for class?
+10:29:32	 From  Brian Lee : Theres isn't a required text for this class
+10:29:43	 From  SCOTT EDWARD WEAVER : great, thanks.
+10:30:12	 From  Vladimir Ovechkin : at what time will the first assignment be released? It only says the date on the course website.
+10:30:42	 From  Brian Lee : It will be released today
+10:38:10	 From  JIAXIN LI : I tried to login Ed. And it said that it will send me a login link, but I haven’t received that. Does anyone has the same problem?
+10:38:18	 From  Joshua Watrous : So, basically, for the git setup, all we should do if we're on windows is download git bash for windows and make sure we can clone into GitLab? (ignoring the atom bits)
+10:39:13	 From  Christina Zhang : will section be recorded as well?
+10:39:34	 From  Brian Lee : I believe the section will not be recorded
+10:39:49	 From  Joshua Watrous : Also, could you post the TA office hour times on the course website?
+10:41:09	 From  Jasper Palmer : We do not have the OH links on the Website due to privacy issues with the Zoom links, that is why we keep them on canvas and Ed :)
+10:43:10	 From  Frost Yockey : GUI
+10:43:25	 From  Jacob vanthoog : access to input / output devices
+10:43:26	 From  Marco Xu : Process management
+10:43:26	 From  Micah Verwey : Hardware/software bridge
+10:43:28	 From  Joshua Watrous : Manage system resources and schedule instructions for execution?
+10:43:33	 From  YUXUAN LU : scheduling
+10:43:37	 From  YANGLU SHU : process/threads?
+10:43:44	 From  JIAXIN LI : To provide user interface?
+10:46:07	 From  JIAXIN LI : Operation system?
+10:46:08	 From  Joshua Watrous : Do you mean which layer?
+10:52:51	 From  Brian Lee : Email me at blee11@cs.washington.edu if you are having issues with logging on to gitlab
+10:54:42	 From  NATASYA JULIETTE : Where can I find the repo?
+10:55:02	 From  NATASYA JULIETTE : ok thanks!
+10:56:27	 From  Michelle : Or make a post on Ed!
+11:01:55	 From  Joshua Watrous : I'm still a little confused on the difference between tookits / API / IDE ?
+11:02:48	 From  ZEYNEP TOPRAKBASTI : Can you clarify difference between toolkist and high level tools? And also the windows System is clear on computers but I am confused how they exist on mobile devices
+11:02:58	 From  Frost Yockey : Is there some explicit differentiation between High level tools and Toolkits?
+11:02:59	 From  Brian Lee : IDE is an integrated development environment, it basically what you will be using to program and run your program on the emulator or ur phone
+11:03:56	 From  NIKOLAI A SCHEEL : How important is code style/idioms for grading (compared to correctness)?
+11:04:43	 From  Brian Lee : Style isn't as important in this class but your code should still be neat!
+11:04:52	 From  JIAXIN LI : How about the grading for reflection?
+11:04:56	 From  NIKOLAI A SCHEEL : Thanks!
+11:05:03	 From  JIAXIN LI : Do we have detailed rubrics for grading?
+11:05:17	 From  Brian Lee : basically follow good coding styles learned in 143 but we don't scrutinize it as much
+11:05:32	 From  ZEYNEP TOPRAKBASTI : Thanks Brian :D 
+11:05:40	 From  JIAXIN LI : Thank you
+11:05:47	 From  Brian Lee : Yes, rubrics for grading will be up on the website later
+11:06:00	 From  JIAXIN LI : Ok :)
+11:06:10	 From  Jasper Palmer : They should be at the bottom of every spec!
+11:06:35	 From  Brian Lee : for reflections, as long as you put in time for a thoughtful answer, you will be fine
+11:06:51	 From  JIAXIN LI : I see
+11:07:14	 From  Simona Liao : What is a view?
+11:08:04	 From  Simona Liao : thanks!
+11:08:09	 From  Frost Yockey : lil X icon
+11:08:09	 From  Sage Khanuja : Text!
+11:08:10	 From  LAURA MARY DEBOLDT : buttons!
+11:08:11	 From  ZEYNEP TOPRAKBASTI : Title, time
+11:08:16	 From  JIAXIN LI : Images and text
+11:08:21	 From  NATASYA JULIETTE : The notification icon
+11:08:23	 From  JIAXIN LI : A box
+11:08:23	 From  AUDREY MICHELLE : icon
+11:08:27	 From  NIKOLAI A SCHEEL : background colors
+11:09:32	 From  JIAXIN LI : Input box (widget?)
+11:09:36	 From  ZEYNEP TOPRAKBASTI : Header with the time and phone service
+11:09:38	 From  Frost Yockey : Top header for the phone info
+11:09:46	 From  Ally Zitzka : text message area
+11:09:48	 From  YANGLU SHU : edit buttons
+11:09:49	 From  ZUO WANG : textfield and appBar
+11:09:51	 From  NATASYA JULIETTE : back button
+11:09:52	 From  XINJIE HUANG : time stamps
+11:09:53	 From  MURATHAN SARAYLI : Buttons that takes you to other apps
+11:09:53	 From  NIKOLAI A SCHEEL : App header with contact info & buttons
+11:09:55	 From  Joshua Watrous : Multiple buttons (send, photo, etc.)
+11:10:01	 From  Maria Lynn Frazey : links
+11:10:03	 From  UNNATI GOYAL : Dropdown menus
+11:10:04	 From  JIAXIN LI : links
+11:10:07	 From  Ray Van Hollebeke : Various buttons to access different events
+11:10:08	 From  Jacob vanthoog : scrolling area
+11:21:40	 From  Joshua Watrous : I pulled mine during lecture and it built fine
+11:21:52	 From  Jasper Palmer : That is good to hear
+11:21:56	 From  Jacob vanthoog : you might need to update to 3.6?
+11:22:31	 From  NIKOLAI A SCHEEL : Thank you!
+11:22:31	 From  Thevina Dokka : Thank you!
+11:22:37	 From  JIAXIN LI : Thank you!
+11:22:37	 From  LYNN KIM NGUYEN : thank you!
+11:22:37	 From  SCOTT EDWARD WEAVER : thanks!
+11:22:42	 From  Zephyr Zhou : Thank you !
+11:22:44	 From  SABRINA MENGMENG WANG : thank you :)
+11:22:47	 From  Sage Khanuja : Thanks!
+11:22:53	 From  Micah Verwey : Thanks!
+11:23:06	 From  Kent Zeng : Thanks!
+11:23:07	 From  NATASYA JULIETTE : Is it supposed to have doodle keeps stopping?
+11:23:18	 From  Thevina Dokka : yes, I get that too
+11:23:22	 From  Brian Lee : Hm can you clarify?
+11:23:39	 From  NATASYA JULIETTE : yes
+11:23:50	 From  Thevina Dokka : I tried the two options but it still doesn't work
+11:24:00	 From  JEREMY KWOCK ZHANG : Oh yeah here’s a helpful guide to android studio that you might wanna watch right now https://tinyurl.com/Y01oXdhaA
+11:24:09	 From  Jasper Palmer : ^
+11:24:32	 From  Jay Lin : ^
+11:24:39	 From  Thevina Dokka : Yes i believe I did
+11:24:48	 From  Thevina Dokka : I will try again
+11:24:51	 From  SCOTT EDWARD WEAVER : I don't wanna build you up, I don't wanna make your project
+11:25:00	 From  AUDREY MICHELLE : rebuild?
+11:25:14	 From  David Chen : Thanks Jeremy, it’s really helpful!
+11:25:28	 From  JEREMY KWOCK ZHANG : No problem!
+11:25:29	 From  Sophie Tian : Thank you Jeremy :)
+11:25:51	 From  Brian Lee : Great guide :)
+11:25:52	 From  Jasper Palmer : I did not even think of that guide, I think they linked it last year!
+11:26:52	 From  NATASYA JULIETTE : Thanks Lauren! I have not read the specs yet sorry. 
+11:26:58	 From  NATASYA JULIETTE : It works ;) 
+11:27:03	 From  Brian Lee : Yay!
+11:27:19	 From  Brian Lee : Always make sure to read the specs thoroughly
+11:27:41	 From  Brian Lee : They are long but it will make the homework easier
+11:28:05	 From  Joshua Watrous : I don't have an emulator yet. Is there a way I can just build it first to make sure I don't get that error?
+11:28:57	 From  NATASYA JULIETTE : Thanks Lauren! I am leaving ;) 
+11:28:58	 From  Thevina Dokka : Thank you very much! I have another class now, but I will clarify in lab tomorrow. Have a great day.
+11:28:58	 From  JIAXIN LI : Will the lab tomorrow teach us how to install the Android studio we need for the assignment?
+11:29:01	 From  Brian Lee : hm, I believe you need the emulator if you want to check this error
+11:29:10	 From  Jay Lin : Theres a Build Button at the top if you just want to build your project
+11:29:12	 From  Jasper Palmer : You can create an emulator in ADV Manager but we will go over it tomorrow in section!
+11:29:13	 From  Jay Lin : the hammer icon
+11:29:16	 From  Joshua Watrous : Ah ok
+11:29:24	 From  JIAXIN LI : thanks
+11:30:22	 From  Thevina Dokka : ok thank you
+11:30:35	 From  Jasper Palmer : Thank you everyone!
+11:30:41	 From  Brian Lee : Thanks!

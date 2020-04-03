@@ -1,0 +1,126 @@
+10:27:33	 From SHILE WEN : When I clicked on the source for the food images for the Doodle assignment, I was like wow, what am I doing with my life
+10:27:59	 From SHILE WEN : That dude is like the real deal
+10:28:30	 From carl : @Shile who is it that takes the food pics?
+10:28:57	 From carl : lol
+10:28:58	 From SHILE WEN : https://www.xiaoyizhang.me/
+10:29:06	 From carl : ty
+10:29:10	 From SHILE WEN : This was the source for the food pics
+10:30:10	 From Jay Lin : Everything okay?
+10:30:27	 From SHILE WEN : ye
+10:30:28	 From LAURA DEBOLDT : yes
+10:30:28	 From AUDREY MICHELLE : yes
+10:30:30	 From Yanglu Shu : y
+10:30:31	 From Simona Liao : yes
+10:32:37	 From carl : Sometimes zoom kicks me out so I have to go to the uw zoom website and sign in first before I am able to open the link from canvas. https://washington.zoom.us/
+10:33:02	 From Jasper Palmer : ^That may also help Benson
+10:39:30	 From carl : no problem!
+10:40:34	 From Lauren Bricker : us.edstem.org
+10:41:28	 From Lauren Bricker : https://us.edstem.org/courses/381/sway/host/785
+10:41:33	 From Simona Liao : Should we start now?
+10:41:34	 From JIAXIN LI : I cannot log in Ed. Will you grade on the sway?
+10:41:51	 From Jasper Palmer : Yes you cannot start now!
+10:42:08	 From Michelle : *can start now
+10:42:17	 From Jasper Palmer : ^
+10:42:27	 From Ofek Inbar : I answered Windowing System for the second question and it marked me wrong :(
+10:42:44	 From Jasper Palmer : Well luckily it is not graded on correctness!
+10:42:54	 From MURATHAN SARAYLI : ^
+10:43:35	 From NIKOLAI A SCHEEL : Can we review swing questions?
+10:43:45	 From NIKOLAI A SCHEEL : Sorry I mean sway
+10:43:47	 From SCOTT EDWARD WEAVER : should have been Incorrect, correct answer must match the regular expression [Hh]igh *[Ll]evel *[Tt]ools|[Ww]indow(ing)? *[Ss]ystems*
+10:44:00	 From Marco Xu : I can’t view previous questions
+10:44:34	 From Yazan Maini : I can’t find sway
+10:44:59	 From Matt Hsieh : Yeah I just didn't memorize the list from the first question and couldn't go back to answer #2
+10:45:17	 From Jasper Palmer : Yeah sway is a little rough at the moment
+10:45:37	 From Ofek Inbar : The regex it had for me was "[Hh]igh *[Ll]evel *[Tt]ools|[Ww]indow *[Ss]ystem"
+10:45:46	 From SCOTT EDWARD WEAVER : right it was missing the "ing"
+10:46:38	 From KASHISH AGGARWAL : Can you send the link to the poll?
+10:46:54	 From Lauren Bricker : pollev.com/docbrick
+10:47:01	 From KASHISH AGGARWAL : thanks!
+10:47:05	 From Jay Lin : List from Sway Q1: Application Program, Toolkit, Server, OS, Hardware
+10:49:56	 From NIKOLAI A SCHEEL : What was the difference between high level tools and toolkits?
+10:50:12	 From Ally Zitzka : can we see your cat?
+10:50:28	 From Brian Lee : Check out the ed post for lecture 2 Q/A!
+10:50:51	 From Brian Lee : It explains the difference between high level tools and toolkits in detail
+10:50:59	 From NIKOLAI A SCHEEL : thanks
+10:53:07	 From Joshua Watrous : How do you reference those resources in your code? (e.g. a string)
+10:53:32	 From Brian Lee : you would do R.id
+10:53:35	 From carl : I think you do getResourcesByID or something like that @Joshua
+10:53:48	 From SCOTT EDWARD WEAVER : hi Jack
+10:53:49	 From NIKOLAI A SCHEEL : hi jack
+10:53:49	 From FROST YOCKEY : hello
+10:53:50	 From Brian Lee : followed by the id you specified in xml
+10:53:51	 From LAURA DEBOLDT : OH SO CUTE
+10:53:51	 From TJ O'Connor : hi jack
+10:53:52	 From Simona Liao : Hi jack
+10:53:52	 From Yanglu Shu : hi
+10:53:53	 From Matt Hsieh : HI Jack
+10:53:54	 From YATING HAN : hi jack
+10:53:56	 From Ofek Inbar : hi jack!
+10:54:00	 From carl : AWE SO CUTE!! HIS EYE
+10:54:02	 From Thevina Dokka : hi jack!
+10:54:09	 From Sage Khanuja : Hi jack!
+10:54:32	 From SCOTT EDWARD WEAVER : cracks
+10:55:03	 From FROST YOCKEY : components?
+10:55:04	 From JIAXIN LI : view
+10:55:08	 From SCOTT EDWARD WEAVER : widgets
+10:55:11	 From Allyson Ely : Filters
+10:55:11	 From SHILE WEN : widget
+10:55:14	 From Joshua Watrous : canvas?
+10:55:15	 From ZEYNEP TOPRAKBASTI : windows?
+10:55:18	 From NIKOLAI A SCHEEL : interface
+10:55:19	 From MUSKAAN SWAROOP : activities
+10:55:33	 From Sage Khanuja : widget
+10:55:47	 From carl : main activity?
+10:58:48	 From SCOTT EDWARD WEAVER : r, g, b
+11:00:55	 From Joshua Watrous : So things like imageview and textview already have an onDraw method defined somewhere()?
+11:01:20	 From Brian Lee : Yes!
+11:04:26	 From Zuo Wang : does the callings of onDraw depend on fps?
+11:04:52	 From Jasper Palmer : Here is a link to the official documentation of a view and how to go about making a custom one: https://developer.android.com/reference/android/view/View#implementing-a-custom-view
+11:08:53	 From SCOTT EDWARD WEAVER : cool
+11:09:57	 From Yanglu Shu : steve…
+11:12:30	 From NIKOLAI A SCHEEL : vector
+11:12:40	 From FROST YOCKEY : vector!
+11:12:40	 From SCOTT EDWARD WEAVER : Vector
+11:12:45	 From Sage Khanuja : vector
+11:12:59	 From Joshua Watrous : What's the difference between Raster and Vector models again?
+11:13:05	 From SCOTT EDWARD WEAVER : is a font basically a vector graphic?
+11:13:26	 From SCOTT EDWARD WEAVER : Raster = pixels (jpeg), Vector = instructions (SVG)
+11:13:32	 From Zephyr Zhou : yes
+11:13:33	 From carl : y
+11:13:35	 From Ray Van Hollebeke : yes
+11:13:35	 From XINJIE HUANG : yes
+11:15:02	 From Zephyr Zhou : Diagonal
+11:15:59	 From JIAXIN LI : Is that the line itself?
+11:16:27	 From Michelle : @Scott I am not 100% sure about what type of graphic fonts are, but I suspect it you are right and it's a vector graphic
+11:16:27	 From FROST YOCKEY : Are we pretending the line isn’t curved?
+11:16:33	 From FROST YOCKEY : got it
+11:16:48	 From SCOTT EDWARD WEAVER : cool, ty Michelle. 
+11:17:42	 From NIKOLAI A SCHEEL : So the bounding box must be adjusted based on line thickness?
+11:18:18	 From carl : So... the bounding box is used to set the height/width of the line?
+11:18:54	 From Brian Lee : Yes, you will have to account for the line thickness when creating a bounding box for the line
+11:19:44	 From Brian Lee : @carl not necessarily, you need to make the bounding box big enough for the line you draw to show up
+11:19:59	 From Brian Lee : so its not technically using the bounding box to set the height/width of the line
+11:20:21	 From carl : kk ty
+11:21:23	 From TYLER JAMES DAO : Do bounding boxes have to be rectangles or could it be changed to fit various shapes
+11:21:28	 From Marco Xu : maybe do some trig math to calculate bounding box
+11:22:01	 From JIAXIN LI : I think they should be rectangles
+11:22:08	 From Joshua Watrous : @Tyler it is always going to be some sort of rectangele, hence the "box" in the name
+11:22:46	 From Brian Lee : yes bounding boxes will always be either rectangle or square, even for a circle
+11:24:18	 From SCOTT EDWARD WEAVER : have a great weekend, everyone!
+11:24:18	 From JIAXIN LI : Thank you!
+11:24:20	 From Simona Liao : thank you!
+11:24:20	 From Ally Zitzka : thanks
+11:24:22	 From Sage Khanuja : thanks
+11:24:22	 From LYNN KIM NGUYEN : thank you!
+11:24:23	 From Sabrina Mengmeng Wang : thanks
+11:24:23	 From XINJIE HUANG : thanks!
+11:24:24	 From Yanglu Shu : thanks
+11:24:26	 From David Chen : You too!
+11:24:28	 From carl : ty bye jack!
+11:24:30	 From Joshua Watrous : So, we should have enough to get through the first three parts of the lab, but not the animation step yet?
+11:24:31	 From Thevina Dokka : thank you!
+11:24:33	 From carl : lol
+11:24:35	 From DENNIS TOEPKER : thanks
+11:24:36	 From Simona Liao : Do we have office hour in this room?
+11:24:45	 From Simona Liao : Ok!ty
+11:25:06	 From Joshua Watrous : So, we should have enough to get through the first three parts of the lab, but not the animation step yet?

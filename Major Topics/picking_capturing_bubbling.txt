@@ -1,0 +1,4 @@
+NOTE: 
+
+*** Picking is POST-ORDER, not PRE-ORDER!!!!
+* Bubbling order is the opposite of Capture order

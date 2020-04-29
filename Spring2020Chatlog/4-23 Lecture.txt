@@ -1,0 +1,92 @@
+09:28:29	 From UNNATI GOYAL : I have a question regarding the assignment. I edited main activity for part 4 is that fine ?
+09:29:00	 From Sophie Tian : You probably should not do it. Last quarter we had some compiler issues due to students modified mainActivity
+09:29:18	 From UNNATI GOYAL : Then how do we access the images ?
+09:29:46	 From Sophie Tian : What do you mean? You can access the images through xml
+09:30:36	 From UNNATI GOYAL : Then there wouldn’t be any programmatic component in those
+09:30:43	 From XINJIE HUANG : For part 4, every time it looks right on the XML editor it's broken on the app. Not sure why...
+09:30:57	 From Ally Zitzka : @Unnati you can use the res thing like in parts 2 and 3 and do res.getIdentifier(<filename>… then rest same as other parts)
+09:31:09	 From Sophie Tian : Ohhh okay I think I misunderstood. For part 4 yes, you can modify the mainactivity
+09:31:22	 From Sophie Tian : You should not modify main activity for part1-3 tho
+09:31:30	 From Sophie Tian : Should be okay for part 4
+09:31:49	 From UNNATI GOYAL : So the test would be based on the main activity as well right ?
+09:32:05	 From UNNATI GOYAL : for part4
+09:32:44	 From Jay Lin : whoops
+09:32:54	 From Jay Lin : i meant to make Sophie the host
+09:33:42	 From Ally Zitzka : wait so is it still due tonight?
+09:33:51	 From Ally Zitzka : ok cool
+09:34:00	 From Ray Van Hollebeke : So is the lock date now Sunday?
+09:34:55	 From Ray Van Hollebeke : Alright!
+09:35:25	 From Ray Van Hollebeke : Lock is on Sat!
+09:35:54	 From XINJIE HUANG : What so is it due today or tomorrow?
+09:36:21	 From Ray Van Hollebeke : Just wait for the ed post then
+09:37:08	 From Jasper Palmer : For a final ruling, I checked on Jeremy's clarification and "MainActivity.java is not a file students should edit"
+09:37:41	 From Jay Lin : Feel free to answer in the chat too
+09:38:05	 From UNNATI GOYAL : Then how do we add images programmatically to part 4?
+09:38:36	 From Allyson Ely : Part4View.java
+09:38:42	 From XINJIE HUANG : I'm assuming the same way as part 3 and part 2
+09:38:43	 From Jasper Palmer : Can you not do it in Part4View.java?
+09:38:58	 From UNNATI GOYAL : No because the constructor is different
+09:39:06	 From Jay Lin : There’s a way to access that specific image file
+09:39:09	 From Jasper Palmer : Sophie I think you are the host!
+09:39:53	 From UNNATI GOYAL : How do we access the specific image file ?
+09:40:52	 From Jay Lin : you can google how to access drawable android java
+09:41:06	 From Jay Lin : @Jasper you are the host now
+09:41:23	 From Jay Lin : Everytime we give up the host position we lose all power lol
+09:42:08	 From Jay Lin : Question to discuss: why is alt text important?
+09:42:21	 From Jay Lin : What groups of people/situations do you think alt text would help?
+09:42:51	 From TYLER JAMES DAO : blind people
+09:43:05	 From TYLER JAMES DAO : or any level of visual impairment
+09:43:06	 From Jay Lin : Question to discuss: why is alt text important? What groups of people/situations do you think alt text would help?
+09:45:52	 From Jay Lin : How’s everyone’s week so far :)
+09:46:25	 From TYLER JAMES DAO : going better than last week
+09:46:38	 From Jay Lin : nice
+09:46:45	 From Jay Lin : thankfully I don’t have any real midterms
+09:46:52	 From TYLER JAMES DAO : quarantine getting to be the new normal isn’t fun but it’s getting bearable
+09:46:59	 From TYLER JAMES DAO : that’s always nice
+09:47:09	 From Jay Lin : my friend said “oh no… no more snow days”
+09:47:20	 From Jasper Palmer : Sorry I had to manually assign everyone to breakouts so that we had an even spread of TAs last time that is why it took so long :/
+09:47:21	 From Jay Lin : cuz we’re all getting used to online classes haha
+09:47:29	 From Jay Lin : :O
+09:50:03	 From Jasper Palmer : Also if a picture does not load sometimes alt text is displayed in its place!
+09:51:43	 From Jay Lin : LOL
+09:52:27	 From Jay Lin : Question to say/post in chat answer to: what would be appropriate alt text for this image?
+09:53:09	 From Alyssa Cote : Doesn't it depend on the context? Like if this was in a book about flowers you'd want the actual name of the flower
+09:53:22	 From Alyssa Cote : I mean website...
+09:53:59	 From Alyssa Cote : Okay thank you!
+09:57:33	 From Ally Zitzka : subtitles maybe
+10:00:01	 From Allyson Ely : They don’t pick up on the correct words all the time
+10:00:09	 From Alyssa Cote : Sometimes they're super wrong
+10:00:21	 From Ally Zitzka : personally they’re sometimes helpful for me bc if i missed something she said i can look and see what the captions wrote (hopefully they aren’t wrong tho)
+10:00:37	 From Allyson Ely : it can be hard to look at the slides and the screen reader at the same time
+10:04:44	 From Jay Lin : We have been reduced to 16 people so breakout rooms might not be desirable to them
+10:05:42	 From Jay Lin : Question: In what ways do you think this technology could harm the community? What does this technology imply about ASL speakers?
+10:07:46	 From Jasper Palmer : Feel free to post your ideas in chat! We just want you to brainstorm potential impacts!
+10:07:56	 From Sophie Tian to Jay Lin (Privately) : Thank you very much!
+10:08:02	 From Jay Lin : No wrong answers here :)
+10:08:04	 From Sophie Tian to Jay Lin (Privately) : It wasn’t so hard in person ugh
+10:08:15	 From Jay Lin to Sophie Tian (Privately) : yeah haha
+10:08:19	 From XINJIE HUANG : It looks a bit unnatural?
+10:08:25	 From Ally Zitzka : for starters this technology assumes that people have all their fingers
+10:08:33	 From Jay Lin : ^
+10:08:37	 From Vladimir Ovechkin : was the model that translates the movement to text inaccurate?
+10:08:38	 From Alyssa Cote : There are different ASL languages
+10:08:49	 From XINJIE HUANG : Maybe that glove design won't fit all people
+10:09:36	 From Allyson Ely : like screen readers maybe still wrong information?
+10:09:45	 From Jacob Zhang : It kind of marks ASL speakers as “disabled”
+10:10:12	 From Allyson Ely : Does this output as text on a screen?
+10:10:18	 From Allyson Ely : ok
+10:11:59	 From Allyson Ely : so basically it isn’t better than just signing in person?
+10:12:16	 From Allyson Ely : Yeah it seems unhelpful
+10:16:34	 From Allyson Ely : Thank you Sophie!
+10:16:38	 From Jasper Palmer : Thank you everyone who stayed and participated!
+10:16:40	 From XINJIE HUANG : Thank you
+10:16:46	 From Andrea Muljono : Thank you
+10:16:47	 From Vladimir Ovechkin : thanks
+10:16:47	 From Jacob Zhang : Thank you!
+10:16:47	 From JIAXIN LI : Thank you
+10:16:48	 From Sophie Tian : Thank you :)
+10:16:49	 From Alyssa Cote : Thanks!
+10:16:51	 From XINJIE HUANG : I need some help on part 4....
+10:20:14	 From Jay Lin : @XINJIE There are multiple office hours today if you need further help :)
+10:21:51	 From Jay Lin : I am going to leave for another class… see y’all
+10:21:53	 From Jasper Palmer : @Xinjie is it a short question that we could talk about now? Or did you want to wait and take it to an oofice hour?

@@ -1,0 +1,47 @@
+10:26:42	 From Jay Lin : https://bit.ly/CSE340Callbacks
+10:27:39	 From Jasper Palmer : Tiger and a lion mix
+10:27:39	 From Vladimir Ovechkin : lion tiger hybrid
+10:27:54	 From Vladimir Ovechkin : very large animal
+10:28:11	 From Lauren Bricker : https://bit.ly/CSE340Callback
+10:29:07	 From Allyson Ely : This link didn’t work for me
+10:29:34	 From Lauren Bricker : https://docs.google.com/document/d/1vOV4kI1xcb04YlMBHldo-pbXJajJWL8spiVXo6jBFi0/edit?usp=sharing
+10:29:56	 From Allyson Ely : Yes, thanks
+10:30:44	 From Lauren Bricker : https://docs.google.com/document/d/1vOV4kI1xcb04YlMBHldo-pbXJajJWL8spiVXo6jBFi0/edit?usp=sharing
+10:32:54	 From Lauren Bricker : https://docs.google.com/document/d/1vOV4kI1xcb04YlMBHldo-pbXJajJWL8spiVXo6jBFi0/edit?usp=sharing
+10:35:43	 From Vladimir Ovechkin : use lambda or implement comparator in person?
+10:35:45	 From DENNIS TOEPKER : implement comparable?
+10:35:54	 From NATASYA JULIETTE : create a new comparator
+10:36:17	 From Vladimir Ovechkin : passing lambda func is better I think
+10:36:53	 From Spencer K Klett : Why’s lambda better @Vladimir? Curious because I don’t have a ton of experience w them but a lot more with comparators
+10:45:10	 From Vladimir Ovechkin : less code to write :)
+10:45:13	 From Christina Zhang : can we have access to the demo code?
+10:49:16	 From Jay Lin : Favorite animal?
+10:49:23	 From Jay Lin : Animal: Monkey
+10:49:47	 From Jay Lin : Name of Zoo enclosure?
+10:50:22	 From Jay Lin : Enclosure Name: Banana Republic
+10:51:43	 From Jay Lin : Sound: Rick Roll
+10:51:49	 From Jay Lin : “Never gonna give u up"
+10:52:13	 From Jay Lin : Who will turn on the mic: Nikolai
+10:52:28	 From Jay Lin : ^ also types the name of enclosure
+10:54:56	 From LAURA DEBOLDT : tiger enclosure
+10:54:57	 From SHILE WEN : Our (Jasper's Group) enclosure name: Orwellian Animal Farm
+10:55:00	 From AUDREY MICHELLE : zootastic
+10:55:03	 From NIKOLAI A SCHEEL : Banana Republic
+10:55:04	 From Yazan Maini : name: LygerKing
+10:55:05	 From Olga Irina Andreeva : koala enclosure
+10:55:07	 From Zuo Wang : Humming Giraffe
+10:55:10	 From Brian Lee : Brian's group (Zootastic)
+10:55:21	 From Zechariah Cheung : Penguin
+10:58:51	 From Michelle : LygerKing
+10:59:52	 From JIAXIN LI : lol
+11:00:02	 From Michelle : Nice noises y'all! :D
+11:00:06	 From DENNIS TOEPKER : wheres the rick roll lol
+11:00:16	 From Jay Lin : XD
+11:12:08	 From NATASYA JULIETTE : onCreate?
+11:12:10	 From Joshua Watrous : on measure and on layout?
+11:12:12	 From NATASYA JULIETTE : onDraw?
+11:22:10	 From Simona Liao : Thank you!
+11:22:12	 From JIAXIN LI : THANK YOU!
+11:22:14	 From Spencer K Klett : Thank you!
+11:22:18	 From Lynn Kim Nguyen : Thank you!
+11:22:28	 From Danh Luong : Thank you

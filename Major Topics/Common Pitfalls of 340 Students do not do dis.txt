@@ -17,8 +17,9 @@ Common topic misassumptions of CSE 340 Students
 	- Model (ex: representations of the bell, maybe like bellState = RINGRING!!!)
 
 4. Picking 
-	- PICKING = PRE-ORDER!!!! 
-	- Capture = go through picked list. Is rarely used by comp devs. In charge of saying "HELLO VIEW, WILL YOU CONSUME THIS EVENT???"
+	- PICKING = Post-ORDER!!!! 
+	- Capture = go through picked list. Is rarely used by comp devs. 
+		- In charge of saying "HELLO VIEW, WILL YOU CONSUME THIS EVENT???"
 	- Bubbling = reverse order, is the default order for devs
 
 5. Event Records

@@ -1,3 +1,0 @@
-AS1: Doodle Hints
-
--*** set the bounding box correctly for addLine!!! You need to edit the layoutParams within the addLine method.

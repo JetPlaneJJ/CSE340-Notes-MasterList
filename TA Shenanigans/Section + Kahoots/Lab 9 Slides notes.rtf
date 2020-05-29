@@ -1,0 +1,36 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf840
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs36 \cf0 The whole point of this HW is to understand and implement the Undo feature, which is very useful for handling or recovering from user errors. It reverts the app back to some previous state. For example, you\'92re typing a long essay in Microsoft Word but then you accidentally delete all your words, undo will save you from having to retype everything again. \
+\
+On the other hand, Redo is also nice to have. Basically redoes are for catching user \'93error-errors\'94. Like if you deleted your essay, undo the delete, but then think \'93hmm maybe I actually wanted to delete my whole essay\'94, then redo is the action you\'92d take.\
+\
+Here\'92s a general overview of the structure of the Undo assignment. This slide goes over the Activities you\'92ll see. You\'92ll be implementing ReversibleDrawingActivity, which is where you\'92ll be adding the majority of the stuff into the layout like the menus for selecting thickness and handling callbacks. This class also references the DrawingView object called mDrawingView from the AbstractDrawingActivity class.\
+\
+And then, you\'92ll see that ReversibleDrawingActivity extends AbstractReversibleDrawingActivity, which in turn extends AbstractDrawingActivity. This class contains the functionality for undo, redo, and doAction() and their buttons\
+\
+AbstractDrawingActivity just provides the base for an app that supports drawing 
+\i without 
+\i0 history, so you\'92ll see the doAction() method but not undo or redo. It also contains methods like adding menus and changing the visibility of Views, like if you want to make your menu buttons disappear temporarily. \
+\
+Overall, the AbstractDrawingActivity class acts as the wrapper around DrawingView since it outlines what should happen when strokes are drawn. And DrawingView is just the canvas where your strokes or StrokeViews should appear. If you look inside DrawingView, you\'92ll see a PPS in its onTouchEvent handling the drawing functionality.\
+\
+Next, we have Actions. AbstractAction is at the top of the hierarchy, and it just represents any basic action that can be done on a DrawingView but doesn\'92t include the undo-ability aspect. However, AbstractReversibleAction does define the interface for undo-able Actions. How doAction() will be called in your app flows like this: something happens in your ReversibleDrawingActivity which calls doAction() from AbstractReversibleDrawingActivity, when then calls doAction() of its superclass\'85 and so on. Lastly, you might notice in your code that within the undo method inside AbstractReversibleDrawingActivity, it goes to the AbstractReversibleAction itself to undo/redo.\
+\
+The Actions you should care about are, changing color, changing thickness (which you\'92ll be implementing), and StrokeAction which is the class you should be subclassing from to make a new type of Action for\'85 you\'92ll need it for the last few parts in the hw.\
+\
+Lastly, there\'92s History which is what keeps track of what has happened so far. You\'92ll have to implement StackHistory. Even though we call them Stacks, they\'92re actually Deques of Actions (or double-ended queue) since we have to be able to remove from both the front and back. You\'92ll see why when you start to implement this part of the HW. \
+- Some things to think about are: What should happen if I draw a bunch of strokes, undo back two strokes, then draw a new stroke? What happened to those undone two strokes?\
+- And also think about what happens to the undo history if you want to redo an action? (add back to undo stack)\
+- Likewise, what happens to redo if you undo an action?\
+\
+Example: \
+Undo: [0: APPLE, 1: BANANA]\
+Redo: [0: PEAR]\
+\
+\
+}

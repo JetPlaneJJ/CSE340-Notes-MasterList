@@ -1,72 +1,0 @@
-09:25:07	 From Jasper Palmer to Jay Lin (Privately) : I paused the recording until we get going, try not to let me forget to restart it haha
-09:26:45	 From Jay Lin to Jasper Palmer (Privately) : okay
-09:32:24	 From Jay Lin to My Tran (Privately) : Should i start?
-09:32:26	 From Jay Lin to My Tran (Privately) : :)
-09:33:32	 From Vladimir Ovechkin : did they fix the gitlab submit error?
-09:35:20	 From Yanglu Shu : i don’t think they fix it.
-09:43:27	 From Murathan Sarayli : can you show the link again
-09:43:55	 From My Tran : it's on the course website under schedule
-09:44:07	 From My Tran : :)
-09:44:15	 From Murathan Sarayli : thanks
-09:45:42	 From Jay Lin : Download example APK: https://tinyurl.com/wdgjkcu
-09:46:26	 From Jay Lin : Practice Google Form (please use UW email): https://tinyurl.com/DoodleTestEval
-09:50:45	 From Yanglu Shu : where can you find the logcat?
-09:50:50	 From Yanglu Shu : I. only have event log
-09:51:03	 From JIAXIN LI : At the bottom
-09:51:25	 From Yanglu Shu : ok i found it
-09:51:27	 From Yanglu Shu : thanks!
-09:54:09	 From My Tran to Jay Lin (Privately) : I think we're done
-09:54:18	 From XINJIE HUANG : Do we have to keep the TODO text there when we submit?
-09:54:57	 From Jay Lin to My Tran (Privately) : what about the animation part
-09:54:58	 From XINJIE HUANG : thanks!
-09:55:17	 From My Tran to Jay Lin (Privately) : i think taylor supposed to talk about it
-09:55:21	 From Jay Lin to Taylor Gotfrid (Privately) : uh do you want to go over this part
-09:55:44	 From JIAXIN LI : I have 2 questions on Ed that remain unanswered, can you answer that after the session? I do not think I can post it again to remind you.
-09:56:07	 From Jay Lin : ok, will check
-09:56:11	 From JIAXIN LI : Thanks
-09:58:46	 From Ally Zitzka : can you go over the difference between the animations again?
-10:00:26	 From Ally Zitzka : oooo ok thank you
-10:00:30	 From Yanglu Shu : what’s the difference between a View and a canvas?
-10:00:36	 From My Tran : We will learn more about xml later too :)
-10:01:23	 From Jay Lin : View —> all the “objects” you add on the screen
-10:01:28	 From Ally Zitzka : so like if it’s art or whatever, the canvas would be the canvas and the view would be like a bush?
-10:01:30	 From Jay Lin : Canvas —> your screen
-10:01:31	 From Yanglu Shu : i thought that each view gets its own canvas
-10:02:07	 From Jay Lin : @Ally yeah, kinda like starting out with an empty canvas,
-10:02:24	 From UNNATI GOYAL : I added custom images to drawables and now when I am adding more than 1 image, my app crashes. How do I rectify that
-10:03:04	 From Ben Lin : are there any other useful/frequently used propertyName(like alpha, x) for animating stuff?
-10:03:08	 From UNNATI GOYAL : How do you join images like we joined to make the heart
-10:03:17	 From Jay Lin : ^ make size of images smaller (might fix your problem)
-10:03:54	 From Vladimir Ovechkin : what is the difference between “x” and “translationX” properties?
-10:04:18	 From Jay Lin : @Unnati Goyal: The “heart” image is just a bunch of views ontop of each other
-10:04:27	 From Jay Lin : not “joining” image files or anythnig
-10:04:31	 From XINJIE HUANG : Does the X property of the view represent the left-most edge of the bounding box?
-10:04:46	 From Yanglu Shu : ok thanks!
-10:06:54	 From Jasper Palmer : https://developer.android.com/guide/topics/graphics/prop-animation#views
-10:07:08	 From Nick A Harlow : https://developer.android.com/guide/topics/graphics/prop-animation
-10:07:13	 From Ben Lin : thank you!
-10:07:15	 From Nick A Harlow : Is a good overview of animation as well
-10:08:07	 From Allyson Ely : Is there a way to delay an animation?
-10:08:25	 From Allyson Ely : thanks!
-10:08:35	 From Andrea Muljono : Can we save the part2 video as an .mp4?
-10:08:57	 From Andrea Muljono : Thanks!
-10:10:19	 From David Chen : Were you drinking water or coffee
-10:10:28	 From UNNATI GOYAL : I accidentally changes one of the files that I wasn’t supposed to but I changed it back to the original. Is that fine ?
-10:10:59	 From UNNATI GOYAL : how do you revert
-10:12:16	 From UNNATI GOYAL : Thanks!
-10:13:09	 From Vladimir Ovechkin : doesn’t git checkout also revert file
-10:13:16	 From Vladimir Ovechkin : to last commit
-10:13:34	 From UNNATI GOYAL : I tried to reduce the size of the images and it still crashes
-10:13:51	 From UNNATI GOYAL : It’s the same
-10:14:04	 From UNNATI GOYAL : I’ll try that
-10:14:06	 From Vladimir Ovechkin : git-checkout - Switch branches or restore working tree files
-10:14:22	 From Vladimir Ovechkin : it’s what it says when you do git status
-10:14:34	 From Vladimir Ovechkin : bye
-10:14:46	 From Ben Lin : is there a difference between setting params directly and using the method setParams?like imageView.getLayoutParams().height = 2 &ViewGroup.LayoutParams params = imageView.getLayoutParams();params.height = 2;imageView.setLayoutParams(params);
-10:14:47	 From Jay Lin : Random note, git reference: https://www.datree.io/resources/git-commands
-10:15:06	 From UNNATI GOYAL : It’s just my images
-10:15:32	 From Ben Lin : thank you
-10:15:42	 From Jay Lin : 200x200px images (in the original Doodle)
-10:15:48	 From Jay Lin : maybe strive for that number
-10:16:00	 From Jay Lin : jpeg
-10:16:50	 From Jay Lin : And remember to git add all the images you want to submit too

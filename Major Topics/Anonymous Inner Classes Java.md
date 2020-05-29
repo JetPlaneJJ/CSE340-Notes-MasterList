@@ -17,3 +17,5 @@ public class ExActivity extends AppCompatActivity {
 	
 }
 ```
+
+Learn more about Anonymous Classes: https://www.baeldung.com/java-anonymous-classes

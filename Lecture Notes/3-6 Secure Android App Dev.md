@@ -1,7 +1,8 @@
 CSE340 Winter 2020
 3/6/2020 Friday (Online) Zoom Lecture
 Lecturer: Franziska Roesner, Associate CSE Professor --> CSE 484 Computer Security
-Lecture Topic: Secure Android Application Development
+
+# Lecture Topic: Secure Android Application Development
 
 1. What can go wrong?
 	- "Threat Model" --> explicitly malicious applications

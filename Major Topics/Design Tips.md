@@ -1,5 +1,6 @@
 # Design Tips in General
   - https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk06/people-motor.html#11
+  - Summary slide: https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk06/people-motor.html#60
 
   1. Small --> large targets (maximize size)
   2. Commonly used things together (minimize distance)

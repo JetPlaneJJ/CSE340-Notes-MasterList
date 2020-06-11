@@ -12,6 +12,9 @@
 # Design Tips for Vision
 - https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk02/people-vision.html#78
 
+# Accessible Design Tips (Tracy Tran Lecture)
+- https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk03/accessibility-and-inclusive-design.pdf
+
 # Application Design Principals
   - https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk07/interaction.html#33
 

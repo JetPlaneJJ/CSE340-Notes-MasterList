@@ -7,6 +7,9 @@
   4. Pie menus for expert tasks
   5. Snapping
   6. Motor Size vs Visible Size (important things bigger)
+  
+# Design Tips for Vision
+- https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk02/people-vision.html#78
 
 # Application Design Principals
   - https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk07/interaction.html#33

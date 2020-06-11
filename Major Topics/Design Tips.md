@@ -12,6 +12,19 @@
 # Design Tips for Vision
 - https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk02/people-vision.html#78
 
+1. Small object --> NO BLUE
+2. Older users --> NO BLUE!!!!!!!!
+3. Contrast = HIGH
+4. Less Saturate
+5. Redundant cues --> traffic signs (consistent, not dependent on hues)
+6. Make things DISTINCT
+7. Use small multiples (star rating system, airplane safety instructions consistent human drawing)
+8. Can't change response time? Manage expectations. --> "hey here's a loading bar to tell your download progress"
+9. Replace subtle changes with obvious ones (You're trying to sign up for account but there's an error, show BIG + RED BOX)
+10. Well-tested visual GROUPING strategies
+11. Less options
+12. Recognition not Recall (this button's caption says "home" instead of obscure home symbol user doesn't know)
+
 # Accessible Design Tips (Tracy Tran Lecture)
 - https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk03/accessibility-and-inclusive-design.pdf
 

@@ -1,5 +1,5 @@
 # Design Tips in General
-  - https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk06/people-motor.html#11
+  - Start of important content in slides: https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk06/people-motor.html#11
   - Summary slide: https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk06/people-motor.html#60
 
   1. Small --> large targets (maximize size)
@@ -10,7 +10,7 @@
   6. Motor Size vs Visible Size (important things bigger)
   
 # Design Tips for Vision
-- https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk02/people-vision.html#78
+- Summary slide: https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk02/people-vision.html#78
 
 1. Small object --> NO BLUE
 2. Older users --> NO BLUE!!!!!!!!
@@ -26,14 +26,15 @@
 12. Recognition not Recall (this button's caption says "home" instead of obscure home symbol user doesn't know)
 
 # Accessible Design Tips (Tracy Tran Lecture)
-- https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk03/accessibility-and-inclusive-design.pdf
+- PDF: https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk03/accessibility-and-inclusive-design.pdf
 
 1. Recognize exclusion (know that others have diff abilities + background)
 2. Learn from diversity (diverse training data... etc)
 3. Solve for one --> helps many others too!
 
 # Application Design Principals
-  - https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk07/interaction.html#33
+  - Start of important content: https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk07/interaction.html#33
+  - Summary slide: https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk07/interaction.html#44
 
   1. Consistency (Record This Record That... Stop recording but still "tricked" into accepting????)
   2. Affordances (make the window side have a "groove" appearance so users can think it's easy to grab)

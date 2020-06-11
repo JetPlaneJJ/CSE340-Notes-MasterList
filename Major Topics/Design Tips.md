@@ -1,4 +1,4 @@
-# Design Tips in General
+# Design Tips for Motor Control
   - Start of important content in slides: https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk06/people-motor.html#11
   - Summary slide: https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk06/people-motor.html#60
 

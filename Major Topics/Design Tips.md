@@ -28,6 +28,10 @@
 # Accessible Design Tips (Tracy Tran Lecture)
 - https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk03/accessibility-and-inclusive-design.pdf
 
+1. Recognize exclusion (know that others have diff abilities + background)
+2. Learn from diversity (diverse training data... etc)
+3. Solve for one --> helps many others too!
+
 # Application Design Principals
   - https://courses.cs.washington.edu/courses/cse340/20sp/slides/wk07/interaction.html#33
 

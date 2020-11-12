@@ -3,7 +3,7 @@ Masterlist of notes from Winter 2020 and Spring 2020, likely applicable to futur
 Please contact jial8@uw.edu if there is something wrong with the notes.
 
 ## Winter 2021
-TBA
+https://jetplanejj.github.io/cse340wi-notes/
 
 ## Spring 2020
 jetplanejj.github.io/cse340-private-website/
